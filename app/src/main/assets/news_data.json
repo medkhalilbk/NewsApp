@@ -1,0 +1,44 @@
+[
+  {
+    "image": "education",
+    "title": "Exciting Football Match Ends in Dramatic Penalty Shootout",
+    "description": "In a thrilling football match, both teams fought hard, and the game ended with a dramatic penalty shootout. The crowd was on the edge of their seats as players showcased their skills, and the winning team celebrated a well-deserved victory.",
+    "type": "Football",
+    "date": "March 15, 2023"
+  },
+  {
+    "image": "health",
+    "title": "New World Record Set in Marathon Racing",
+    "description": "A new world record was set in marathon racing as an exceptional athlete crossed the finish line in record-breaking time. The accomplishment is a testament to the dedication and training of the athlete, inspiring others in the world of long-distance running.",
+    "type": "Marathon",
+    "date": "April 5, 2023"
+  },
+  {
+    "image": "sports",
+    "title": "Basketball Championship Decided in Overtime Thriller",
+    "description": "The basketball championship was decided in an intense overtime thriller, with both teams giving their all on the court. Fans witnessed spectacular plays, buzzer-beaters, and unforgettable moments that will be remembered for years to come.",
+    "type": "Basketball",
+    "date": "May 20, 2023"
+  },
+  {
+    "image": "education",
+    "title": "Spectacular Tennis Match at Wimbledon Captivates Audiences",
+    "description": "Wimbledon showcased a spectacular tennis match featuring top-ranked players. The back-and-forth rallies, skillful serves, and nail-biting tiebreakers kept audiences captivated, making it a memorable event in the world of tennis.",
+    "type": "Tennis",
+    "date": "June 8, 2023"
+  },
+  {
+    "image": "health",
+    "title": "Olympic Games Opening Ceremony Dazzles the World",
+    "description": "The Olympic Games kicked off with a dazzling opening ceremony that brought together athletes from around the globe. The celebration of unity, diversity, and sportsmanship set the stage for an unforgettable edition of the world's premier sporting event.",
+    "type": "Olympics",
+    "date": "July 23, 2023"
+  },
+  {
+    "image": "sports",
+    "title": "Golf Masters Tournament: A New Champion Emerges",
+    "description": "The Golf Masters Tournament witnessed the crowning of a new champion who displayed exceptional skill and composure on the course. The tournament showcased the beauty of golf and the competitive spirit of the world's top golfers.",
+    "type": "Golf",
+    "date": "August 12, 2023"
+  }
+]

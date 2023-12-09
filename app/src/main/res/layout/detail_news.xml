@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/frameLayout"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <LinearLayout
+        android:id="@+id/linearLayout"
+        android:layout_width="wrap_content"
+        android:layout_height="800dp"
+        android:background="@drawable/linear_shape"
+        android:orientation="vertical"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <TextView
+            android:id="@+id/titleView"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:lineSpacingExtra="8dp"
+            android:paddingLeft="25dp"
+            android:paddingTop="60dp"
+            android:paddingRight="25dp"
+            android:textColor="#212529"
+            android:textSize="18sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/desc"
+            android:layout_width="match_parent"
+            android:layout_height="114dp"
+            android:lineSpacingExtra="8dp"
+            android:paddingLeft="25dp"
+            android:paddingTop="20dp"
+            android:paddingRight="25dp"
+            android:textColor="#212529"
+            android:textSize="15sp" />
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="496dp"
+            android:layout_weight="1" />
+
+        <Button
+            android:id="@+id/send"
+            style="@style/Widget.AppCompat.Button.ButtonBar.AlertDialog"
+            android:layout_width="match_parent"
+            android:layout_height="60dp"
+            android:layout_gravity="bottom"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="20dp"
+            android:layout_marginBottom="305dp"
+            android:background="#FF0000"
+            android:backgroundTint="#FF0000"
+            android:backgroundTintMode="src_in"
+            android:text="Share"
+            android:textColor="@android:color/white"
+            android:textSize="20dp"
+            app:iconTint="#FE0000" />
+
+    </LinearLayout>
+</androidx.constraintlayout.widget.ConstraintLayout>
